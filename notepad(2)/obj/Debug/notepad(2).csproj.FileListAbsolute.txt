@@ -1,0 +1,12 @@
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\bin\Debug\notepad(2).exe.config
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\bin\Debug\notepad(2).exe
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\bin\Debug\notepad(2).pdb
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\obj\Debug\notepad(2).csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\obj\Debug\notepad(2).csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\obj\Debug\notepad_2_.Form1.resources
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\obj\Debug\notepad_2_.Properties.Resources.resources
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\obj\Debug\notepad(2).csproj.GenerateResource.cache
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\obj\Debug\notepad(2).csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\obj\Debug\notepad(2).exe
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\obj\Debug\notepad(2).pdb
+\\Mac\Home\Downloads\notepad(2)\notepad(2)\obj\Debug\notepad_2_.FontSettings.resources
